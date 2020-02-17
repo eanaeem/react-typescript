@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Carousel Component should match snapshot 1`] = `
+<div
+  className="css-45larf"
+>
+  <img
+    alt=""
+    className="poster"
+    src="https://image.tmdb.org/t/p/w500/path/2"
+  />
+  <div
+    className="thumbnails"
+  >
+    <img
+      alt="movie thumbnail 0"
+      className="thumbnail movie"
+      src="loader.gif"
+      style={undefined}
+    />
+    <img
+      alt="movie thumbnail 1"
+      className="active thumbnail movie"
+      src="loader.gif"
+      style={undefined}
+    />
+    <img
+      alt="movie thumbnail 2"
+      className="thumbnail movie"
+      src="loader.gif"
+      style={undefined}
+    />
+  </div>
+</div>
+`;

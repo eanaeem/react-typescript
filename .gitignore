@@ -1,0 +1,12 @@
+node_modules
+/node_modules
+nohup.out
+.DS_Store
+sendgrid.env
+.env
+.env.variables
+env.variables
+client
+coverage
+debug.log
+dist
